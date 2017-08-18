@@ -9,4 +9,4 @@ RewriteRule ^(.*)\.html$ /$1 [L,R=301]
 RewriteCond %{HTTP_HOST} ^digamericana.com [NC]
 RewriteRule ^(.*)$ http://www.digamericana.com/$1 [R=301,L]
 
-Redirect /mable.html http://www.example.com/amp001.html
+Redirect /mable.html http://www.digamericana.com/amp001
