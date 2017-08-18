@@ -482,13 +482,13 @@ input.gn-search:focus {
   min-height: 600px;
 }
 
-.intro .slogan {
+.slogan {
 	padding: 300px 0 60px;
 	text-align: center;
-
 }
-.slogan .mable-intro {
-	padding:310px 0 60px;
+
+.mable-intro {
+	padding: 540px 0 60px !important;
 }
 .intro .slogan h1 {
 	color: #fff;
