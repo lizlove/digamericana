@@ -482,7 +482,7 @@ input.gn-search:focus {
   min-height: 600px;
 }
 
-#tbd{
+#intro-tbd{
   background-image: url(../img/mable-bg.jpg);
   background-size: contain;
   background-position: top center;
@@ -501,6 +501,11 @@ input.gn-search:focus {
 .mable-intro {
 	padding: 540px 0 60px !important;
 }
+
+.tbd-intro {
+	padding: 540px 0 60px !important;
+}
+
 .intro .slogan h1 {
 	color: #fff;
 	line-height: 1.1em;
