@@ -482,17 +482,6 @@ input.gn-search:focus {
   min-height: 600px;
 }
 
-#intro-tbd{
-  background-image: url(../img/mable-bg.jpg);
-  background-size: contain;
-  background-position: top center;
-  margin-top: 60px;
-  background-repeat: no-repeat;
-  background-color: #f8f8f6;
-  max-height: 760px;
-  min-height: 600px;
-}
-
 .slogan {
 	padding: 300px 0 60px;
 	text-align: center;
