@@ -29,6 +29,15 @@ h6 {
     letter-spacing: 1px;
 }
 
+h2.status {
+	text-transform: none;
+	font-weight: 400;
+}
+
+span.warn {
+	color: orange;
+}
+
 p {
     margin: 0 0 20px;
     font-size: 16px;
