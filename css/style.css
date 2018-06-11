@@ -35,7 +35,11 @@ h2.status {
 }
 
 span.warn {
-	color: orange;
+	color: #f0ad4e;
+}
+
+span.ready {
+	color: #4cae4c;
 }
 
 p {
